@@ -19,18 +19,18 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `Eazzy Actualizado V2 🤍`
-global.author = 'Eazzy Actualizado V2 🤍'
-global.stickpack = 'Eazzy Actualizado V2 🤍'
-global.stickauth = 'Eazzy Actualizado V2 🤍'
-global.wm = 'Eazzy Actualizado V2 🤍'
-global.dev = 'Eazzy Actualizado V2 🤍'
-global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> Eazzy Actualizado V2 🤍*'
-global.botname = 'Eazzy Actualizado V2 🤍'
-global.textbot = `Eazzy Actualizado V2 🤍`
-global.dev = 'Eazzy Actualizado V2 🤍'
+global.packname = `Chelzzy Bot 🤍`
+global.author = 'Chelzzy Bot 🤍'
+global.stickpack = 'Chelzzy Bot 🤍'
+global.stickauth = 'Chelzzy Bot 🤍'
+global.wm = 'Chelzzy Bot 🤍'
+global.dev = 'Chelzzy Bot 🤍'
+global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> Chelzzy Bot 🤍*'
+global.botname = 'Chelzzy Bot 🤍'
+global.textbot = `Chelzzy Bot 🤍`
+global.dev = 'Chelzzy Bot 🤍'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = 'Eazzy Actualizado V2 🤍'
+global.namechannel = 'Chelzzy Bot 🤍'
 global.channel = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
